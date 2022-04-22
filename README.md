@@ -6,7 +6,7 @@
 - 💻 I'm currently studying React with Typescript
 - 🌎 I'm from Brazil
 
- 👨‍💻 My Portfolio: <http://portfolio-douglc.vercel.app/>
+ 👨‍💻 My Portfolio: <http://portfolio-douglc.vercel.app/> <br/>
  ⭐ My Linkedin: <https://www.linkedin.com/in/douglas-lacerda-da-conceicao/>
 
 ##
