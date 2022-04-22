@@ -6,7 +6,7 @@
 - 💻 I'm currently studying React with Typescript
 - 🌎 I'm from Brazil
 
-My portfolio: <http://portfolio-douglc.vercel.app/>
+ 👨‍💻 My portfolio: <http://portfolio-douglc.vercel.app/>
 
 ##
 
