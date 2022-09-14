@@ -2,7 +2,7 @@
 
 ##
 
-- 👨‍💻 Today I work as a Front-End Developer
+- 👨‍💻 Today I work as a Developer
 - 💻 I'm currently studying React with Typescript
 - 🌎 I'm from Brazil
 
