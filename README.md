@@ -3,7 +3,7 @@
 ##
 
 - 👨‍💻 Today I work as a Developer
-- 💻 I'm currently studying React with Typescript
+- 💻 I'm currently studying Vue
 - 🌎 I'm from Brazil
 
  👨‍💻 My Portfolio: <http://portfolio-douglc.vercel.app/> <br/>
