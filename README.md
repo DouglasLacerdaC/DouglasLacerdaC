@@ -2,7 +2,7 @@
 
 ##
 
-- 👨‍💻 Today I work as a Developer
+- 👨‍💻 Today I work as a Front-end Developer
 - 💻 I'm currently studying Vue
 - 🌎 I'm from Brazil
 
