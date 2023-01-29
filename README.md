@@ -1,15 +1,20 @@
-### Hello, welcome to my github 👋✨
+### Hello, welcome to my github ✨
 
 ##
 
- 👨‍💻 My Portfolio: <http://portfolio-douglc.vercel.app/> <br/>
- ⭐ My Linkedin: <https://www.linkedin.com/in/douglas-lacerda-da-conceicao/>
+ :sparkles: My Portfolio: <http://portfolio-douglc.vercel.app/> <br/>
+ :rocket: My Linkedin: <https://www.linkedin.com/in/douglas-lacerda-da-conceicao/>
+
+##
+<br />
 
 <div align="start">
   <a href="https://github.com/DouglasLacerdaC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasLacerdaC&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasLacerdaC&layout=compact&langs_count=7&theme=dark"/>
 </div>
+ 
+##
  
 ### My skills
 
