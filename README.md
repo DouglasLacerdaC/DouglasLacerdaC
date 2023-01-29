@@ -2,10 +2,6 @@
 
 ##
 
-- 👨‍💻 Today I work as a Front-end Developer
-- 💻 I'm currently studying Vue
-- 🌎 I'm from Brazil
-
  👨‍💻 My Portfolio: <http://portfolio-douglc.vercel.app/> <br/>
  ⭐ My Linkedin: <https://www.linkedin.com/in/douglas-lacerda-da-conceicao/>
 
